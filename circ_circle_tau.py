@@ -14,7 +14,7 @@ def main():
     circumference = constants.TAU * radius
 
     # Display the circumference to the user
-    print(f"The circumference is {circumference:.2f}cm{constants.SUP_2}")
+    print(f"The circumference is {circumference:.2f}cm")
 
 
 if __name__ == "__main__":

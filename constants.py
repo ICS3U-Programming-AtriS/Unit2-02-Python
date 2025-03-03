@@ -4,4 +4,3 @@
 # This module contains constants
 
 TAU = 6.28
-SUP_2 = "\u00b2"
